@@ -1,2 +1,2 @@
 # ARMAS
-Audio inpainting
+Audio inpainting (medium /long)
