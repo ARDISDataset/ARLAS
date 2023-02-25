@@ -1,2 +1,2 @@
-# ARMAS
+# ARLAS
 Audio inpainting (medium /long)
